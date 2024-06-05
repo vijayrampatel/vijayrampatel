@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayrampatel&label=Profile%20views&color=0e75b6&style=flat" alt="vijayrampatel" /> </p>
 
-- 🔭 I’m currently working as **a Research Software Developer and Project Assistant at UW-Madison**
+- 🔭 I’m currently working as **a Research Software Developer <br> and Project Assistant at UW-Madison**
   
 - 👨🏽‍🎓 Graduate student with a **Master's degree in Information**
   
